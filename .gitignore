@@ -77,3 +77,12 @@ $RECYCLE.BIN/
 #####################
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos
+
+# images
+*.png
+*.jpg
+*.jpeg
+
+# file env and rute env
+.env
+web-server/env/
