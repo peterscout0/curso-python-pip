@@ -24,6 +24,9 @@ Crear un entorno
 python3 -m venv env
 Activar un entorno virtual
 
+python -m venv ~/path_to_your_folder/.venvs/my_first_env
+Útil si prefieres organizar tus entornos virtuales en un directorio centralizado, en lugar de tenerlos dentro de cada proyecto.
+
 source env/bin/activate
 Verificar que estemos dentro del entorno virtual
 
